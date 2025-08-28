@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "community-sabbath-lunch",
+    "title": "Community Sabbath Lunch",
+    "date": "2025-09-06",
+    "time": "12:30 PM",
+    "location": "Fellowship Hall",
+    "description": "Join us after worship for a potluck lunch and fellowship."
+  },
+  {
+    "slug": "youth-vespers",
+    "title": "Youth Vespers",
+    "date": "2025-09-13",
+    "time": "6:30 PM",
+    "location": "Sanctuary",
+    "description": "An evening of music, testimonies, and prayer for youth and families."
+  },
+  {
+    "slug": "outreach-food-drive",
+    "title": "Neighborhood Food Drive",
+    "date": "2025-10-04",
+    "time": "2:00 PM",
+    "location": "Parking Lot",
+    "description": "Help us collect non-perishables for local families in need."
+  }
+]

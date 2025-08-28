@@ -1,0 +1,42 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Local fonts (placeholders) */
+@font-face { font-family:"Inter"; src:url("/fonts/inter.woff2") format("woff2"); font-weight:400 700; font-display:swap; }
+@font-face { font-family:"Crimson Text"; src:url("/fonts/crimson-text.woff2") format("woff2"); font-weight:600 700; font-display:swap; }
+
+/* Global focus ring (critical) */
+:focus-visible { outline:2px solid #1F6FEB; outline-offset:2px; }
+.focus-ring { outline:2px solid #1F6FEB; outline-offset:2px; }
+
+html { scroll-behavior: smooth; }
+body { @apply font-body; }
+
+.container { @apply max-w-[1200px] mx-auto px-8; }
+.section  { @apply py-28 md:py-36; }
+.section-lg { @apply py-36 md:py-44; }
+.section-sm { @apply py-20 md:py-28; }
+
+.card { @apply bg-surface rounded-xl shadow-card; }
+.btn { @apply inline-flex items-center justify-center rounded-lg px-8 py-4 font-medium text-white bg-primary hover:bg-primaryHover focus:outline-none focus-visible:ring-2 focus-visible:ring-focus disabled:opacity-50; }
+.btn-outline { @apply inline-flex items-center justify-center rounded-lg px-8 py-4 font-medium border border-primary text-primary hover:bg-red-50 focus-visible:ring-2 focus-visible:ring-focus; }
+.btn-ghost { @apply inline-flex items-center justify-center rounded-lg px-8 py-4 font-medium text-ink hover:bg-sand; }
+.chip { @apply inline-flex items-center rounded-full px-8 py-4 min-h-[52px] text-sm; }
+.sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
+
+/* Striped background for classic design */
+.bg-stripes {
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(255, 255, 255, 0.1) 10px,
+    rgba(255, 255, 255, 0.1) 20px
+  );
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

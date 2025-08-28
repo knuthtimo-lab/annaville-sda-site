@@ -1,0 +1,278 @@
+[
+  {
+    "slug": "children",
+    "name": "Children's Ministry",
+    "meeting": "Sabbaths 9:30 AM",
+    "leader": "Jane Doe",
+    "category": "Children",
+    "what": "Bible stories, crafts, and songs for kids.",
+    "where": "Room 2",
+    "description": "Our Children's Ministry provides a safe, nurturing environment where children ages 3-12 can learn about Jesus through age-appropriate Bible stories, creative crafts, and joyful worship songs. We believe in making faith fun and accessible for young hearts.",
+    "contact": {
+      "email": "children@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 2"
+    },
+    "image": "/assets/children_ministry_craft.png",
+    "ages": "3-12 years",
+    "activities": [
+      "Interactive Bible stories",
+      "Creative crafts and activities",
+      "Worship songs and music",
+      "Memory verses",
+      "Prayer time",
+      "Special holiday celebrations"
+    ],
+    "faq": [
+      {
+        "question": "What ages can participate in Children's Ministry?",
+        "answer": "Our Children's Ministry welcomes children ages 3-12. We have age-appropriate groups: Preschool (3-5), Primary (6-8), and Junior (9-12). Each group has activities tailored to their developmental stage."
+      },
+      {
+        "question": "Do parents need to stay with their children?",
+        "answer": "Parents are welcome to stay, but it's not required. All our teachers are background-checked and trained in child safety. We have a secure check-in system for your peace of mind."
+      },
+      {
+        "question": "What should children bring with them?",
+        "answer": "Just bring a smile! We provide all materials including crafts, snacks, and activity supplies. Children may want to bring a Bible if they have one, but we have plenty available."
+      },
+      {
+        "question": "How can I volunteer to help with Children's Ministry?",
+        "answer": "We always welcome volunteers! Contact our ministry leader to learn about opportunities. We provide training and support for all volunteers."
+      },
+      {
+        "question": "What if my child has special needs?",
+        "answer": "We strive to accommodate all children. Please let us know about any special needs in advance so we can provide appropriate support and ensure your child has a great experience."
+      }
+    ]
+  },
+  {
+    "slug": "youth",
+    "name": "Youth Ministry",
+    "meeting": "Fridays 6:30 PM",
+    "leader": "John Smith",
+    "category": "Youth",
+    "what": "Vespers, service projects, and small groups.",
+    "where": "Youth Room",
+    "description": "Our Youth Ministry creates a dynamic space for teenagers to grow in their faith, build meaningful relationships, and discover their purpose in Christ. Through worship, Bible study, and service projects, we help youth navigate life's challenges with God's guidance.",
+    "contact": {
+      "email": "youth@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 3"
+    },
+    "image": "/assets/youth_vespers.png",
+    "ages": "13-18 years",
+    "activities": [
+      "Friday night vespers",
+      "Bible study and discussions",
+      "Service projects and outreach",
+      "Worship and music",
+      "Small group fellowship",
+      "Retreats and camps"
+    ],
+    "faq": [
+      {
+        "question": "What ages can participate in Youth Ministry?",
+        "answer": "Our Youth Ministry is designed for teenagers ages 13-18. We welcome all youth regardless of their church background or experience level."
+      },
+      {
+        "question": "Do you provide transportation to events?",
+        "answer": "Yes, we can arrange transportation for youth who need a ride to events. Please contact us at least 24 hours in advance so we can coordinate rides."
+      },
+      {
+        "question": "Are there leadership opportunities for youth?",
+        "answer": "Absolutely! We encourage youth to take on leadership roles in planning events, leading worship, organizing service projects, and mentoring younger youth."
+      },
+      {
+        "question": "What if I'm shy or new to the group?",
+        "answer": "No worries! We have a welcoming environment where everyone can participate at their own comfort level. Our leaders and other youth are friendly and inclusive."
+      },
+      {
+        "question": "Do you have overnight events or retreats?",
+        "answer": "Yes! We have several overnight events throughout the year including retreats, camps, and special youth conferences. All events are well-supervised and include proper safety measures."
+      }
+    ]
+  },
+  {
+    "slug": "adults",
+    "name": "Adult Sabbath School",
+    "meeting": "Sabbaths 9:30 AM",
+    "leader": "Elder Team",
+    "category": "Adults",
+    "what": "Interactive Bible study for adults.",
+    "where": "Classrooms A/B",
+    "description": "Adult Sabbath School offers deep, engaging Bible study in a welcoming community setting. We explore Scripture together, share insights, and grow in our understanding of God's Word through interactive discussions and prayer.",
+    "contact": {
+      "email": "sabbathschool@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 4"
+    },
+    "image": "/assets/speeking.png",
+    "ages": "18+ years",
+    "activities": [
+      "Interactive Bible study",
+      "Group discussions",
+      "Prayer and fellowship",
+      "Quarterly lesson study",
+      "Guest speakers",
+      "Special topic studies"
+    ],
+    "faq": [
+      {
+        "question": "Do I need to bring a Bible or study materials?",
+        "answer": "Bibles and study guides are provided, but feel free to bring your own. We follow the Seventh-day Adventist quarterly lesson study, and all materials are available free of charge."
+      },
+      {
+        "question": "Is this only for church members?",
+        "answer": "No, everyone is welcome! Whether you're a long-time member or just exploring faith, you'll find a warm welcome here. We love having visitors join our discussions."
+      },
+      {
+        "question": "What if I'm new to Bible study?",
+        "answer": "Perfect! Our classes are designed to be accessible to everyone, from beginners to those with years of Bible study experience. We encourage questions and discussion."
+      },
+      {
+        "question": "How long do the classes last?",
+        "answer": "Sabbath School typically runs from 9:30 AM to 10:45 AM. We start with opening exercises and then break into smaller discussion groups."
+      },
+      {
+        "question": "Can I join in the middle of a quarter?",
+        "answer": "Absolutely! You can join our Bible study at any time. Each lesson is self-contained, so you won't feel lost if you start mid-quarter."
+      }
+    ]
+  },
+  {
+    "slug": "women",
+    "name": "Women's Ministry",
+    "meeting": "Monthly",
+    "leader": "Mary Johnson",
+    "category": "Women",
+    "what": "Fellowship and spiritual growth for women.",
+    "where": "Fellowship Hall",
+    "description": "Women's Ministry provides a supportive community where women can grow spiritually, build meaningful friendships, and find encouragement for life's journey. Through Bible study, prayer, and fellowship, we strengthen each other in faith.",
+    "contact": {
+      "email": "women@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 5"
+    },
+    "image": "/assets/welcome_commite.png",
+    "ages": "18+ women",
+    "activities": [
+      "Monthly fellowship meetings",
+      "Bible study groups",
+      "Prayer circles",
+      "Service projects",
+      "Retreats and conferences",
+      "Mentoring programs"
+    ],
+    "faq": [
+      {
+        "question": "When do you meet?",
+        "answer": "We meet monthly, usually on the second Sabbath afternoon. Check our church calendar or contact us for specific dates and times."
+      },
+      {
+        "question": "Do I need to be a church member to participate?",
+        "answer": "No, all women are welcome regardless of church membership or background. We're a diverse group with women from various faith backgrounds."
+      },
+      {
+        "question": "What if I can't attend regularly?",
+        "answer": "That's perfectly fine! Come when you can. We understand that life is busy and schedules vary. You're always welcome to join us."
+      },
+      {
+        "question": "What types of activities do you do?",
+        "answer": "We have Bible study groups, prayer circles, service projects, retreats, and fellowship events. We also support each other through life's challenges and celebrations."
+      },
+      {
+        "question": "How can I get involved in leadership?",
+        "answer": "We welcome women who want to take on leadership roles! Contact our ministry leader to learn about opportunities to serve and lead."
+      }
+    ]
+  },
+  {
+    "slug": "men",
+    "name": "Men's Ministry",
+    "meeting": "Monthly",
+    "leader": "David Lee",
+    "category": "Men",
+    "what": "Prayer breakfast and projects.",
+    "where": "Kitchen & Grounds",
+    "description": "Men's Ministry brings together men of all ages to grow in faith, build brotherhood, and serve our community. Through prayer, Bible study, and hands-on projects, we encourage men to be spiritual leaders in their families and communities.",
+    "contact": {
+      "email": "men@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 6"
+    },
+    "image": "/assets/family_entry.png",
+    "ages": "18+ men",
+    "activities": [
+      "Monthly prayer breakfast",
+      "Bible study and discussion",
+      "Service projects",
+      "Maintenance and grounds work",
+      "Fellowship events",
+      "Mentoring opportunities"
+    ],
+    "faq": [
+      {
+        "question": "What kind of projects do you work on?",
+        "answer": "We maintain church grounds, help with building repairs, assist community members in need, and support various church ministries. We also organize service projects and outreach initiatives."
+      },
+      {
+        "question": "Do I need construction or maintenance skills?",
+        "answer": "No special skills required! We welcome men of all skill levels. There's always something you can help with, from simple tasks to more complex projects."
+      },
+      {
+        "question": "When is the prayer breakfast?",
+        "answer": "We meet monthly, usually on the first Sabbath morning at 7:30 AM for breakfast and prayer. Check our calendar for specific dates."
+      },
+      {
+        "question": "How can I get involved if I'm new?",
+        "answer": "Just show up! We're always happy to welcome new men to our group. We'll help you find ways to contribute that match your interests and abilities."
+      },
+      {
+        "question": "Do you have Bible study or spiritual growth activities?",
+        "answer": "Yes! In addition to our service projects, we have Bible study discussions, prayer time, and opportunities for spiritual growth and fellowship."
+      }
+    ]
+  },
+  {
+    "slug": "outreach",
+    "name": "Community Outreach",
+    "meeting": "Monthly",
+    "leader": "Team",
+    "category": "Outreach",
+    "what": "Serving our neighborhood through practical help.",
+    "where": "Various",
+    "description": "Community Outreach demonstrates God's love through practical service to our neighbors. We believe in meeting people where they are and showing Christ's compassion through food drives, health screenings, and other community support initiatives.",
+    "contact": {
+      "email": "outreach@annavillesda.org",
+      "phone": "(361) 241-5501 ext. 7"
+    },
+    "image": "/assets/potluck.png",
+    "ages": "All ages welcome",
+    "activities": [
+      "Food drives and distribution",
+      "Health screenings",
+      "Community clean-up projects",
+      "Emergency assistance",
+      "Partnership with local organizations",
+      "Seasonal outreach events"
+    ],
+    "faq": [
+      {
+        "question": "How can I get involved in outreach?",
+        "answer": "We welcome volunteers of all ages and abilities! Contact us to learn about current opportunities and upcoming events. We have both one-time and ongoing volunteer positions available."
+      },
+      {
+        "question": "Do you provide emergency assistance?",
+        "answer": "Yes, we work with local agencies to provide emergency food, clothing, and other assistance to families in need. We also offer referrals to other community resources."
+      },
+      {
+        "question": "Can I donate items for outreach?",
+        "answer": "Absolutely! We accept non-perishable food, gently used clothing, hygiene items, and other essentials. Contact us for current needs and donation drop-off times."
+      },
+      {
+        "question": "What types of outreach events do you organize?",
+        "answer": "We organize food drives, health screenings, community clean-up projects, seasonal events, and partnerships with local organizations. We also respond to immediate community needs as they arise."
+      },
+      {
+        "question": "How can my organization partner with you?",
+        "answer": "We love partnering with other organizations! Contact us to discuss potential collaborations and how we can work together to serve our community."
+      }
+    ]
+  }
+]

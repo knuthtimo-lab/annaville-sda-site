@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "hope-in-the-storm",
+    "title": "Hope in the Storm",
+    "speaker": "Pr. Andrew Kim",
+    "date": "2025-08-16",
+    "series": "Faith & Hope",
+    "thumbnail": "/assets/sermon1.jpg",
+    "summary": "Finding peace in anxious times."
+  },
+  {
+    "slug": "sabbath-rest",
+    "title": "The Gift of Sabbath Rest",
+    "speaker": "Pr. Andrew Kim",
+    "date": "2025-08-09",
+    "series": "Foundations",
+    "thumbnail": "/assets/sermon2.jpg",
+    "summary": "Why rest matters in a restless world."
+  },
+  {
+    "slug": "servant-leadership",
+    "title": "Servant Leadership",
+    "speaker": "Mary Johnson",
+    "date": "2025-08-02",
+    "series": "Discipleship",
+    "thumbnail": "/assets/sermon3.jpg",
+    "summary": "Leading like Jesus in everyday life."
+  }
+]
