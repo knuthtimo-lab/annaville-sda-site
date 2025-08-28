@@ -113,10 +113,10 @@ temp/
 # Vercel
 .vercel
 
-# Docker
-.dockerignore
-Dockerfile
-docker-compose*.yml
+# Docker (keeping these files for the project)
+# .dockerignore
+# Dockerfile
+# docker-compose*.yml
 
 # Backup files
 *.bak
